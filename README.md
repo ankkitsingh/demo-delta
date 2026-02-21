@@ -1,2 +1,2 @@
 # demo-delta
-This is my demo repostiry
+This is my demo repostiry.
